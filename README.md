@@ -1,2 +1,2 @@
-# crvi
-Cash Recognition for Visually Impaired
+# Cash Recognition for Visually Impaired
+#### Source Code and data files
