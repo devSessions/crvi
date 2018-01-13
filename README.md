@@ -5,6 +5,12 @@
 - finetune_vgg.py: VGG16 model as pretrained model
 - finetune_vgg19.py: VGG19 model as pretrained model
 
+# Installation
+Install required dependencies with [pip](https://pip.pypa.io/en/stable/installing/).
+```
+pip install -r requirements.txt
+```
+
 ### Data
 - [Available in Google Drive](https://drive.google.com/drive/folders/1GxITXrk13ehKMEMEbpi8mRsFSr4LUR55?usp=sharing)
 
