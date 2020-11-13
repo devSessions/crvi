@@ -21,7 +21,7 @@ PyYAML==3.12
 requests==2.18.4
 scipy==1.0.0
 six==1.11.0
-tensorflow==1.4.1
+tensorflow==2.3.1
 tensorflow-tensorboard==0.4.0rc3
 urllib3==1.22
 Werkzeug==0.13
