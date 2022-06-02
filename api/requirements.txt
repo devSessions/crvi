@@ -6,7 +6,7 @@ enum34==1.1.6
 Flask==0.12.2
 gunicorn==19.7.1
 h5py==2.7.1
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.6
 itsdangerous==0.24
 Jinja2==2.10
