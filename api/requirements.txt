@@ -16,7 +16,7 @@ MarkupSafe==1.0
 numpy==1.13.3
 olefile==0.44
 Pillow==4.3.0
-protobuf==3.5.1
+protobuf==3.18.3
 PyYAML==3.12
 requests==2.18.4
 scipy==1.0.0
